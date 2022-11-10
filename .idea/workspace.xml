@@ -20,10 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="less1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9f6171b9-2673-4e97-98d6-ffe1429fa4fc" />
+        <option name="url" value="https://github.com/SuslovaIV/Less1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/TeenGale/Documents/Джава/Lessons/Less",
+    "last_opened_file_path": "C:/Users/TeenGale/Documents/Джава/Lessons/Lesson1/Less1",
     "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
@@ -83,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668066045460</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit1">
+      <created>1668067659544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668067659544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
