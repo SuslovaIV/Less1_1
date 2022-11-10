@@ -63,7 +63,7 @@ public class Main {
         for (int i = 1; i <= 10 ; i++) {
             p = p+b*p/1000-d*p/1000;
         }
-        System.out.println("Население через 10 лет: "+p);
+        System.out.println("Население в старне через 10 лет: "+p);
     }
 }
 
